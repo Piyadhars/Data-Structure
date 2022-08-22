@@ -1,3 +1,4 @@
+#THREE COINS SUM - GREEDY
 import java.util.*;
 public class Coing {
     public static void main(String args[])

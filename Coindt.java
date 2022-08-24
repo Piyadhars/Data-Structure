@@ -1,3 +1,4 @@
+#THREE COINS-TOPDOWN
 import java.util.*;
 public class Coindt {
     public static void main(String[] args){

@@ -1,3 +1,4 @@
+#THREE COINS-BRUTE FORCE
 import java.util.*;
 public class CoinBrute {
 
